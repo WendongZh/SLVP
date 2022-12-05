@@ -20,7 +20,7 @@ The pre-preparations are list as follows:
 
 1) Download the KTH action dataset from this [link](https://www.csc.kth.se/cvap/actions/).
 
-2) Modify the dataset directory '--train_data_paths' and '--valid_data_paths' in both train.sh
+2) Modify the dataset directory '--train_data_paths' and '--valid_data_paths' in both train.sh and test.sh
 
 3) For training, run
 ```bash
