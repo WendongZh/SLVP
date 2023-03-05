@@ -2,7 +2,7 @@
   
 Code for paper "Self-Labeling Video prediction".  
 
-In this project, we provide the code of our paper "Self-Labeling Video prediction" which is submitted to journal for possible publication.  
+In this project, we provide the code of our paper "Self-Labeling Video prediction" which is accepted by Displays. The link to our paper is [here](https://doi.org/10.1016/j.displa.2023.102400) 
 
 In this paper, we propose a novel self-labeling framework that can easily equip with popular video prediction models and help resolve the multi-modal entanglement over the latent variables.  
 
